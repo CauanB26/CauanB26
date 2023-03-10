@@ -10,7 +10,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)" />
+    <img align="center" alt="Rafa-Ts" height="30" width="40" src="![image](https://user-images.githubusercontent.com/101209404/224341051-49a3fc57-e2c0-48a3-b638-bfe3c97d82c4.png)
+" />
     
   </div>
   
