@@ -1,5 +1,5 @@
 - 👋 print("Hello world, my name is Cauan")
-- 👀 Studyng: Python, C , HTML, CSS, JavaScript
+- 👀 Studyng: C , HTML, CSS, JavaScript
 
 <div align="center">
   <a href="https://github.com/CauanB26">
