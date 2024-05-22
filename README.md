@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg"/>
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg"/>
-  <img align="center" height="30" width="40" src="[https://www.svgrepo.com/show/452185/css-3.svg](https://www.svgrepo.com/svg/331760/sql-database-generic)"/>
+  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg"/>
  
     
   </div>
