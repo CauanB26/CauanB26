@@ -1,26 +1,97 @@
-- 👋 print("Hello world, my name is Cauan")
-- 👀 Studyng: Python, C , SQL
+# Hi, I'm Cauan Baptista! 👋
 
-<div align="center">
-  <a href="https://github.com/CauanB26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauanB26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanB26&layout=compact&langs_count=7&theme=dracula"/>
- 
+I'm an Automation Developer at **Solar Grid**, where I use **Python**, **Databases**, and **AI** to build solutions that solve complex operational problems and drive efficiency. I am also currently pursuing a degree in Software Engineering at IBMEC-RJ.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg"/>
-  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg"/>
-  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
- 
-    
-  </div>
-  
-  ##
- 
-<div>   
-  <a href = "mailto:cauanbaptista123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cauanbaptista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
-          
+### 💻 My Main Projects (Case Studies)
+
+Here are some projects I've developed, with detailed case studies covering their architecture, challenges, and results.
+
+➡️ **[Optimized Report Generator for PV Plant Logs](https://github.com/CauanB26/case-study-photovoltaic-log-processor)**
+* A desktop application (Tkinter) that automates the download (FTP) and processing (Pandas) of solar plant log data, using a multi-threaded architecture to transform a 3-day process into 15 minutes.
+* *Technologies: Python, Tkinter, Pandas, Multi-threading, FTP.*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+![Cauan Baptista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauanb26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+---
+
+### 📫 Get in Touch
+
+<p align="left">
+<a href="mailto:cauanbaptista123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cauanbaptista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+&nbsp;
+&nbsp;
+
+---
+---
+
+&nbsp;
+&nbsp;
+
+## **Versão em Português**
+
+---
+
+# Olá, sou o Cauan Baptista! 👋
+
+Sou Desenvolvedor de Automação na **Solar Grid**, onde utilizo **Python**, **Banco de Dados** e **IA** para criar soluções que resolvem problemas operacionais complexos e geram eficiência. Atualmente, também estou cursando Engenharia de Software no IBMEC-RJ.
+
+---
+
+### 💻 Meus Principais Projetos (Case Studies)
+
+Aqui estão alguns projetos que desenvolvi, com estudos de caso detalhados sobre a arquitetura, os desafios e os resultados.
+
+➡️ **[Gerador de Relatórios Otimizado para Logs de UFV](https://github.com/CauanB26/case-study-photovoltaic-log-processor)**
+* Uma aplicação desktop (Tkinter) que automatiza o download (FTP) e processamento (Pandas) de dados de usinas solares, utilizando uma arquitetura multi-threaded para transformar um processo de 3 dias em 15 minutos.
+* *Tecnologias: Python, Tkinter, Pandas, Multi-threading, FTP.*
+
+
+---
+
+### 🛠️ Habilidades e Tecnologias
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas de Cauan Baptista no GitHub](https://github-readme-stats.vercel.app/api?username=cauanb26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+---
+
+### 📫 Como me Encontrar
+
+<p align="left">
+<a href="mailto:cauanbaptista123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cauanbaptista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
