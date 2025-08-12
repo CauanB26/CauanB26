@@ -8,6 +8,10 @@ I'm an Automation Developer at **Solar Grid**, where I use **Python**, **Databas
 
 Here are some projects I've developed, with detailed case studies covering their architecture, challenges, and results.
 
+➡️ **[Menu Management Automation Tool](https://github.com/CauanB26/case-study-menu-management-automation)**
+* An RPA tool (Tkinter) that automates product updates in a POS system, reducing a daily 1.5-hour manual process to under 10 minutes.
+* *Technologies: Python, Tkinter, Pandas, SQL Server, T-SQL.*
+
 ➡️ **[Optimized Report Generator for PV Plant Logs](https://github.com/CauanB26/case-study-photovoltaic-log-processor)**
 * A desktop application (Tkinter) that automates the download (FTP) and processing (Pandas) of solar plant log data, using a multi-threaded architecture to transform a 3-day process into 15 minutes.
 * *Technologies: Python, Tkinter, Pandas, Multi-threading, FTP.*
@@ -63,6 +67,10 @@ Sou Desenvolvedor de Automação na **Solar Grid**, onde utilizo **Python**, **B
 
 Aqui estão alguns projetos que desenvolvi, com estudos de caso detalhados sobre a arquitetura, os desafios e os resultados.
 
+➡️ **[Ferramenta de Automação para Gestão de Cardápios](https://github.com/CauanB26/case-study-menu-management-automation)**
+* Uma ferramenta de RPA (Tkinter) que automatiza a atualização de produtos em um sistema POS, reduzindo um processo manual diário de mais de 1.5 horas para menos de 10 minutos.
+* *Tecnologias: Python, Tkinter, Pandas, SQL Server, T-SQL.*
+  
 ➡️ **[Gerador de Relatórios Otimizado para Logs de UFV](https://github.com/CauanB26/case-study-photovoltaic-log-processor)**
 * Uma aplicação desktop (Tkinter) que automatiza o download (FTP) e processamento (Pandas) de dados de usinas solares, utilizando uma arquitetura multi-threaded para transformar um processo de 3 dias em 15 minutos.
 * *Tecnologias: Python, Tkinter, Pandas, Multi-threading, FTP.*
