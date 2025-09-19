@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&pause=2000&width=1000&lines=Welcome+to+my+Github!+👋;Projeto+Back-End;Quinto+Elemento;)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&pause=2000&width=1000&lines=Welcome+to+my+Github!+👋;)](https://git.io/typing-svg)
 
 I'm an Automation Developer at **Solar Grid**, where I use **Python**, **Databases**, and **AI** to build solutions that solve complex operational problems and drive efficiency. I am also currently pursuing a degree in Software Engineering at IBMEC-RJ.
 
