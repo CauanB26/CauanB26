@@ -1,4 +1,4 @@
-# Hi, I'm Cauan Baptista! 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&pause=2000&width=1000&lines=Welcome+to+my+Github!+👋;Projeto+Back-End;Quinto+Elemento;)](https://git.io/typing-svg)
 
 I'm an Automation Developer at **Solar Grid**, where I use **Python**, **Databases**, and **AI** to build solutions that solve complex operational problems and drive efficiency. I am also currently pursuing a degree in Software Engineering at IBMEC-RJ.
 
@@ -57,7 +57,7 @@ Here are some projects I've developed, with detailed case studies covering their
 
 ---
 
-# Olá, sou o Cauan Baptista! 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&pause=2000&width=1000&lines=Bem-vindo+ao+meu+Github!+👋;Projeto+Back-End;Quinto+Elemento;)](https://git.io/typing-svg)
 
 Sou Desenvolvedor de Automação na **Solar Grid**, onde utilizo **Python**, **Banco de Dados** e **IA** para criar soluções que resolvem problemas operacionais complexos e geram eficiência. Atualmente, também estou cursando Engenharia de Software no IBMEC-RJ.
 
