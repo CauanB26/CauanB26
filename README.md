@@ -57,7 +57,7 @@ Here are some projects I've developed, with detailed case studies covering their
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&pause=2000&width=1000&lines=Bem-vindo+ao+meu+Github!+👋;Projeto+Back-End;Quinto+Elemento;)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&pause=2000&width=1000&lines=Bem-vindo+ao+meu+Github!+👋;)](https://git.io/typing-svg)
 
 Sou Desenvolvedor de Automação na **Solar Grid**, onde utilizo **Python**, **Banco de Dados** e **IA** para criar soluções que resolvem problemas operacionais complexos e geram eficiência. Atualmente, também estou cursando Engenharia de Software no IBMEC-RJ.
 
