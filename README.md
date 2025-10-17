@@ -16,6 +16,11 @@ Here are some projects I've developed, with detailed case studies covering their
 * A desktop application (Tkinter) that automates the download (FTP) and processing (Pandas) of solar plant log data, using a multi-threaded architecture to transform a 3-day process into 15 minutes.
 * *Technologies: Python, Tkinter, Pandas, Multi-threading, FTP.*
 
+➡️ **[Operational Data Cleaner](https://github.com/CauanB26/case-studies-operational-data-cleaning.git)**
+* A data processing pipeline that automates the cleaning and normalization of photovoltaic sensor data. The script uses statistical algorithms (Pandas, SciPy) to correct anomalies like spikes, noise, and data gaps, transforming a manual process of hours into seconds. The output is a reliable daily performance indicator, enabling data-driven operational decisions.
+* *Technologies: Python, Pandas, NumPy, SciPy, Matplotlib.*
+  
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -75,6 +80,9 @@ Aqui estão alguns projetos que desenvolvi, com estudos de caso detalhados sobre
 * Uma aplicação desktop (Tkinter) que automatiza o download (FTP) e processamento (Pandas) de dados de usinas solares, utilizando uma arquitetura multi-threaded para transformar um processo de 3 dias em 15 minutos.
 * *Tecnologias: Python, Tkinter, Pandas, Multi-threading, FTP.*
 
+➡️ **[Pipeline de Limpeza de Dados Operacionais](https://github.com/CauanB26/case-studies-operational-data-cleaning.git)**
+* Um pipeline de processamento de dados que automatiza a limpeza e normalização de dados de sensores fotovoltaicos. O script utiliza algoritmos estatísticos (Pandas, SciPy) para corrigir anomalias como picos, ruídos e lacunas, transformando um processo manual de horas em segundos. O resultado é um indicador de performance diário confiável, que viabiliza decisões operacionais baseadas em dados.
+* *Tecnologias: Python, Pandas, NumPy, SciPy, Matplotlib.*
 
 ---
 
