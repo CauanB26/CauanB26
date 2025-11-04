@@ -38,7 +38,8 @@ Here are some projects I've developed, with detailed case studies covering their
 
 ### 📊 My GitHub Stats
 
-![Cauan Baptista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauanb26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=CauanB26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanB26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
@@ -101,8 +102,8 @@ Aqui estão alguns projetos que desenvolvi, com estudos de caso detalhados sobre
 
 ### 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas de Cauan Baptista no GitHub](https://github-readme-stats.vercel.app/api?username=cauanb26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
+![Status](https://github-readme-stats.vercel.app/api?username=CauanB26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanB26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### 📫 Como me Encontrar
